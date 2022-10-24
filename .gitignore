@@ -1,0 +1,13 @@
+# __pycache
+__pycache__/
+# vscode
+.vscode/
+# dataset
+data_combi/B/**
+data_combi/M/**
+data_combi/BL/**
+data/IMAGES/**
+data/MASKS/**
+tests/**
+ovdata/**
+slices/**
